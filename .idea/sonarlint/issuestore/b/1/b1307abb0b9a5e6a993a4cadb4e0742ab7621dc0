@@ -1,0 +1,7 @@
+
+Ä
+java:S1130
+"€Remove the declaration of thrown exception 'java.util.concurrent.ExecutionException', as it cannot be thrown from method's body.(­Ëê8Öš•‡2J$bc9571a8-149a-474f-96b0-0cc1a7b01a1b
+º
+java:S1130
+"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(­Ëê8Öš•‡2J$f6472cfc-ab5c-49ae-a3be-596d446c2410
