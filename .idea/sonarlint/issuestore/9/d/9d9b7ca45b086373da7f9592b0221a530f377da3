@@ -1,4 +1,6 @@
 
-r	java:S106"+Replace this use of System.out by a logger.(ˆÔ³œıÿÿÿÿ8âî–2J$d1682dda-02be-462a-a200-fbee5214c4d2
+w
+java:S3740"/Provide the parametrized type for this generic.(âªû»ıÿÿÿÿ8ŠØ—¡2J$1096451c-6dfd-4398-a06e-5ccb01f27bb6
+r	java:S106"+Replace this use of System.out by a logger.(ˆÔ³œıÿÿÿÿ8õëå¡2J$5faca677-f8c1-4242-8daa-6d144504543e
 ‚
-java:S6213":Rename this variable to not match a restricted identifier.(´Ÿ•şÿÿÿÿ8äî–2J$9300aa1a-4a46-4c20-bc2e-0f211104bd58
+java:S6213":Rename this variable to not match a restricted identifier.(´Ÿ•şÿÿÿÿ8÷ëå¡2J$3421cdee-de49-42c1-821d-ecb782ea21d1

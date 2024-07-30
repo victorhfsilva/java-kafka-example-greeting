@@ -1,9 +1,7 @@
 
-|
-java:S1611
-"4Remove the parentheses around the "record" parameter(ùŒÛ¡üÿÿÿÿ8‡³·2J$0ebe0272-ceda-4c04-9407-4fe5ca68b1f0
+
+java:S2095
+"JUse try-with-resources or close this "KafkaService" in a "finally" clause.(†ë­8×å§¤2J$45a5aecf-f551-4892-b70c-2dcbe08ac667
 ‚
-java:S6213
-":Rename this variable to not match a restricted identifier.(ùŒÛ¡üÿÿÿÿ8Š³·2J$22508338-373c-46cb-9a0f-4ad86ffff58b
-r	java:S106
-"+Replace this use of System.out by a logger.(ùŒÛ¡üÿÿÿÿ8‹³·2J$35c2a7f8-959e-42a1-82b1-c69be4a198c2
+java:S6213":Rename this variable to not match a restricted identifier.(–¡íˆÿÿÿÿÿ8İå§¤2J$9ab4b58a-21b6-4240-a332-77c64877cc13
+r	java:S106"+Replace this use of System.out by a logger.(–¡íˆÿÿÿÿÿ8Şå§¤2J$292110dd-37c7-456e-8248-177276807ec3

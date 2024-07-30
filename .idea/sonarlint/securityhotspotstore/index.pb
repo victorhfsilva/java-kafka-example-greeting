@@ -7,10 +7,6 @@ _
 /src/main/java/org/example/GreetingProducer.java,b\1\b1307abb0b9a5e6a993a4cadb4e0742ab7621dc0
 _
 /src/main/java/org/example/GreetingConsumer.java,2\c\2c945a811026e2aec7da600a97179273c9b8656f
-_
-/src/main/java/org/example/ConsumerFunction.java,f\6\f6d5028caef720093917028de92cc336039940c6
-[
-+src/main/java/org/example/KafkaService.java,5\2\52ecbbdbcc9dbb3a450c19f27fd669423dff5c71
 a
 1src/main/java/org/example/kafka/KafkaService.java,9\d\9d9b7ca45b086373da7f9592b0221a530f377da3
 e
@@ -24,3 +20,5 @@ h
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+j
+:src/main/java/org/example/serializer/GsonDeserializer.java,5\d\5d1b874e1222684926c4a35c422e7c76f7c24bd2

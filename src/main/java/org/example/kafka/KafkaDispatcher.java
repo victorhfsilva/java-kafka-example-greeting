@@ -14,11 +14,11 @@ public class KafkaDispatcher<T> implements Closeable {
     public final KafkaProducer<String, T> producer;
 
     public KafkaDispatcher() {
-        producer = new KafkaProducer<String, T>(properties());
+        producer = new KafkaProducer<>(properties());
     }
 
     public void send(String topic, String key, T value) {
-        var record = new ProducerRecord<String, T>(topic, key, value);
+        var record = new ProducerRecord<>(topic, key, value);
         producer.send(record, (data, ex) -> {
             if (ex != null) {
                 ex.printStackTrace();
